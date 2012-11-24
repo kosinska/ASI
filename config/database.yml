@@ -49,7 +49,7 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: projekt_production
+  database: d9dab85pb5l761
   pool: 5
-  username: projekt
-  password:
+  username: mgobevumqtqfcw
+  password: GXZ8daWfYqeQKCbhZycI5ShWbL
