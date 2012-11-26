@@ -1,6 +1,12 @@
 # Ruby on Rails: pierwsza aplikacja
 
+25.11.12
 Jezeli wszystko sie uda to tu:
 ( http://stormy-hamlet-4755.herokuapp.com/ )
 dostepna bedzie dzialajaca aplikacja :)
 
+26.11.12
+Pierwsze koty za ploty...
+http://stormy-hamlet-4755.herokuapp.com/users
+http://stormy-hamlet-4755.herokuapp.com/microposts
+:)
