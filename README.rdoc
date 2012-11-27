@@ -10,3 +10,7 @@ Pierwsze koty za ploty...
 http://stormy-hamlet-4755.herokuapp.com/users
 http://stormy-hamlet-4755.herokuapp.com/microposts
 :)
+
+27.11.12
+Zaczynam tworzenie wlasciwej appki :)
+
