@@ -14,3 +14,8 @@ http://stormy-hamlet-4755.herokuapp.com/microposts
 27.11.12
 Zaczynam tworzenie wlasciwej appki :)
 
+14.12.12
+Problemy z laczeniem z baza danych ... (nie wiem czemu te posty znikaja ;/)
+
+16/17.12.12
+Generalny problem z wrzucaniem tutaj czegokolwiek
